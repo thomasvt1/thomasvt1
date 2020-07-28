@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Thomas 👋
+
+
+I'm a just graduated computer engineering student from the University of Applied Sciences Rotterdam 🎉
+
+I have experience with: Flutter, TypeScript, Node.JS, MongoDB, MySQL, Android, Angular, Docker, Scrum and Git
 
 <!--
 **thomasvt1/thomasvt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
