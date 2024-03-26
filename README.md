@@ -3,7 +3,7 @@
 
 I currently work at Tikkie as a Full Stack developer, mainly working with Typescript on AWS
 
-I have experience with: TypeScript, Node.JS, MongoDB, MySQL, Android, Angular, Docker, Flutter, Scrum and Git
+I have experience with: TypeScript, Node.JS, React, AWS, MongoDB, MySQL, Android, Angular, Docker and Flutter
 
 <!--
 **thomasvt1/thomasvt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
